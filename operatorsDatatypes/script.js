@@ -17,3 +17,5 @@ console.log(25 / 5); // Result: 5
 console.log(50 / 10); // Result: 5
 
 console.log((25/5)===(50/10));
+
+
